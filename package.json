@@ -1,7 +1,7 @@
 {
   "name": "validator-status-cli",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "cli.js",
   "author": "Shai Yallin <shai.yallin@gmail.com>",
   "license": "MIT",
   "dependencies": {
