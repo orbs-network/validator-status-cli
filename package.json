@@ -1,0 +1,14 @@
+{
+  "name": "validator-status-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shai Yallin <shai.yallin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@orbs-network/orbs-nebula": "^1.5.4",
+    "@truffle/hdwallet-provider": "^1.0.17",
+    "request-promise": "latest",
+    "table": "^5.4.6",
+    "web3": "^1.2.5-rc.0"
+  }
+}
