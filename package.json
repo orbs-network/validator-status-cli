@@ -2,6 +2,7 @@
   "name": "orbs-validator-status",
   "version": "1.0.0",
   "main": "cli.js",
+  "bin": "./cli.js",
   "author": "Shai Yallin <shai.yallin@gmail.com>",
   "license": "MIT",
   "dependencies": {
