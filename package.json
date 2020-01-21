@@ -1,5 +1,5 @@
 {
-  "name": "validator-status-cli",
+  "name": "orbs-validator-status",
   "version": "1.0.0",
   "main": "cli.js",
   "author": "Shai Yallin <shai.yallin@gmail.com>",
